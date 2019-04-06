@@ -5,7 +5,7 @@ def loop_iterator(number_of_times)
   number_of_times = 0
   loop do
     puts phrase
-  if number_of_times == 7
+    if number_of_times == 7
     break
   end
 end
