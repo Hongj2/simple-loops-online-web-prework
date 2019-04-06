@@ -15,7 +15,10 @@ end
 
 def while_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
-while 
+  while number_of_times < 7
+    number_of_times += 1
+    puts phase 
+  end 
 end
 
 def until_iterator(number_of_times)
